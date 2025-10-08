@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Test2_DSW",
-    "slug": "Test2_DSW",
+    "name": "Test2",
+    "slug": "Test2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
